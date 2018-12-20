@@ -1,1 +1,1 @@
-FROM gcr.io/google-samples/kubernetes-bootcamp:v1
+FROM gcr.io/google-samples/kubernetes-bootcamp:v2
